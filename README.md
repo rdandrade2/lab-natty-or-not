@@ -1,7 +1,7 @@
 # A Jornada da IA: Trabalhando com clone de áudio 
 
 ## 📒 Descrição
-Gravar um áudio de 20s. e efetuar o clone a um texto do tipo diálogo de what´s up.
+Gravar um áudio de 20s. e efetuar o clone a um texto do tipo diálogo de what´s up
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Vidnoz](https://pt.vidnoz.com/clonar-voz.html)** para clonagem e geração do áudio;
